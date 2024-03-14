@@ -22,34 +22,27 @@
 },
 {
     "id": 4,
-    "title":"ARC Mantis 16, Canvas" ,
-    "price": 949 ,
-    "description": "Hiking backpack.....",
-    "image": "static/images/backback.jpg"
-},
-{
-    "id": 5,
     "title":"Garmin eTrex 10" ,
     "price": 799,
     "description": "Basic GPS with all necessary features. A GPS should never replace your orienteering skills. But it can complement and sometimes be a necessary alternative. Thick fog or a snowstorm can reduce visibility to the point where you can't see any landmarks and you're essentially navigating blindly. Here, a GPS can be a lifesaver. In addition to this, it can significantly ease navigation, and with additional map material, you can get a lot more out of your GPS." ,
     "image": "static/images/gps.jpg"
 },
 {
-    "id": 6,
+    "id": 5,
     "title": "Asivik Hike Towel XL",
     "price": 219,
     "description":"Extra-large lightweight towel for travel and beach use.The Asivik Hike Towel XL is a practical and comfortable lightweight towel, which is a great choice for those who spend a lot of time on the water and want a large and lightweight towel that dries quickly. The towel can also be used when lounging on the beach or as a blanket during transport on flights and buses. The towel is compact and made of soft and luxurious microfiber. It has excellent absorbency, minimal weight and volume, and dries quickly - you can practically shake it dry. There is a small strap (with clips) on the towel, so you can easily hang it to dry in camp or on the outside of your backpack while walking. Overall, the Asivik Hike XL is ideal for those who want an extra-large lightweight towel for both travel and beach use" ,
     "image": "static/images/towel.jpg"
 },
 {
-    "id": 7,
+    "id": 6,
     "title": "Black Diamond Distance Carbon 110-125 cm" ,
     "price": 1649 ,
     "description": "Lightweight hiking poles in carbon fiber.The Black Diamond Distance Carbon FLZ Trekking 125 hiking poles are brilliant for all forms of hiking. Uphill, they allow you to leverage the strength of your arms and upper body; downhill, they alleviate stress on the knees; and on flat terrain, they help you maintain a higher pace and better rhythm.",
     "image": "static/images/stave.jpg"
 },
 {
-    "id": 8,
+    "id": 7,
     "title": "Asivik LiteSit foldable seat pad",
     "price": 79,
     "description": "Asivik LiteSit is an ultra-lightweight seat pad that is ideal to bring along on all types of trips. The seat pad is made of the same insulating foam material that you are familiar with from sleeping mats like the Asivik LiteMat. LiteSit is perfect for all the little breaks along the way, as you can sit comfortably and dry without getting cold or wet when you're having coffee or eating your packed lunch." ,
