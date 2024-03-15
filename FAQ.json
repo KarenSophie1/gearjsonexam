@@ -1,0 +1,22 @@
+[
+{
+    "Id": 1,
+    "question": "Can I book a shelter spot?",
+    "answer": "Yes, you can book a shelter spot via our booking formula on the page named sheltersites."
+},
+{
+    "Id": 2,
+    "question": "Can I bring pets to the shelter site?",
+    "answer": "This varies from place to place. Some shelter sites allow pets, while others do not due to consideration for other guests and wildlife."
+},
+{
+    "Id": 3,
+    "question": "Is firewood available for use at the grill areas?",
+    "answer": "Some places offer firewood for sale or complimentary use to guests, while others expect you to bring your own."
+},
+{
+    "Id": 4,
+    "question": "What are the guidelines for waste management at the shelter site?",
+    "answer": "We encourage our guests to leave the shelter site in the same condition as they found it. Waste should be packed properly and disposed of in the designated waste containers."
+}
+]
