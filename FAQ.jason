@@ -1,5 +1,4 @@
-{
-    "FAQ": [
+[
       {
         "question": "Can I book a shelter spot?",
         "answer": "Yes, you can book a shelter spot via our booking formula on the page named sheltersites."
@@ -17,4 +16,4 @@
         "answer": "We encourage our guests to leave the shelter site in the same condition as they found it. Waste should be packed properly and disposed of in the designated waste containers."
       }
     ]
-  }
+  
