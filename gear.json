@@ -4,62 +4,62 @@
     "title": "Asivik Basic 195 cm, sleepingbag" ,
     "price": 399,
     "description":"Sleep is guaranteed.As the name suggests, this is a good basic sleeping bag for you who are going to festivals, camping trips in the summer, or sleeping indoors all year round. The sleeping bag has a soft and comfortable fiber filling. Nylon fabric on the outer and inner sides ensures that Asivik Basic dries quickly." , 
-    "image": "static/images/sleepingbag.jpg"
+    "image": "images/sleepingbag.jpg"
 },
 {
     "id": 2,
     "title":"Asivik Explore Airmat Large sleeping mat",
     "price": 1399,
     "description": "Asivik Explore Airmat is a top-class sleeping pad! With its light weight and incredibly compact pack volume, it's ready to join you on the biggest adventures. Its extremely impressive R-value of 5.0 ensures that you won't have to fear delving into the secrets of the winter forest.",
-    "image": "static/images/mat.jpg"
+    "image": "images/mat.jpg"
 },
 {
     "id": 3,
     "title":"TRANGIA 25-3 UL w. gas" ,
     "price": 1149 ,
     "description":"The Trangia Storm Cooker is one of the classics of outdoor life. The unique construction provides a stable base for the pots and good heat utilization, as the wind does not affect the burner's efficiency." ,
-    "image": "static/images/trangia.jpg"
+    "image": "images/trangia.jpg"
 },
 {
     "id": 4,
     "title":"Garmin eTrex 10" ,
     "price": 799,
     "description": "Basic GPS with all necessary features. A GPS should never replace your orienteering skills. But it can complement and sometimes be a necessary alternative. Thick fog or a snowstorm can reduce visibility to the point where you can't see any landmarks and you're essentially navigating blindly. Here, a GPS can be a lifesaver. In addition to this, it can significantly ease navigation, and with additional map material, you can get a lot more out of your GPS." ,
-    "image": "static/images/gps.jpg"
+    "image": "images/gps.jpg"
 },
 {
     "id": 5,
     "title": "Asivik Hike Towel XL",
     "price": 219,
     "description":"Extra-large lightweight towel for travel and beach use.The Asivik Hike Towel XL is a practical and comfortable lightweight towel, which is a great choice for those who spend a lot of time on the water and want a large and lightweight towel that dries quickly.",
-    "image": "static/images/towel.jpg"
+    "image": "images/towel.jpg"
 },
 {
     "id": 6,
     "title": "Black Diamond Distance Carbon 110-125 cm" ,
     "price": 1649 ,
     "description": "Lightweight hiking poles in carbon fiber.The Black Diamond Distance Carbon FLZ Trekking 125 hiking poles are brilliant for all forms of hiking. Uphill, they allow you to leverage the strength of your arms and upper body; downhill, they alleviate stress on the knees; and on flat terrain, they help you maintain a higher pace and better rhythm.",
-    "image": "static/images/stave.jpg"
+    "image": "images/stave.jpg"
 },
 {
     "id": 7,
     "title": "Asivik LiteSit foldable seat pad",
     "price": 79,
     "description": "Asivik LiteSit is an ultra-lightweight seat pad that is ideal to bring along on all types of trips. The seat pad is made of the same insulating foam material that you are familiar with from sleeping mats like the Asivik LiteMat. LiteSit is perfect for all the little breaks along the way, as you can sit comfortably and dry without getting cold or wet when you're having coffee or eating your packed lunch." ,
-    "image": "static/images/sidde.jpg"
+    "image": "images/sidde.jpg"
 },
     {
     "id": 8,
     "title": "Walkstool Basic 50 cm",
     "price": 449,
     "description": "Walkstool is a Swedish-designed folding chair with a patented design, perfect for all kinds of outdoor activities where you might need a short rest. Compared to other 3-legged folding chairs, the seat of the Walkstool is approximately 20% larger, which helps ensure higher sitting comfort on the chair. When folded, the chair takes up no more space than a thermos flask, but when unfolded, it has the same seat height as a regular kitchen chair, offering good comfort and secure stability on most surfaces." ,
-    "image": "static/images/walkstool.jpg"
+    "image": "images/walkstool.jpg"
 },
 {
     "id": 9,
     "title": "ASIVIK Lightbank 3300",
     "price": 399,
     "description": "Perfect lightsource designed for outdoor use. Can either be placed on a flat surface or hung from a string." ,
-    "image": "static/images/light.jpg"
+    "image": "images/light.jpg"
 }
 ]
